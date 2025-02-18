@@ -40,10 +40,3 @@ At each connection, the system temporarily saves the ip address of the client an
 [MIT License](https://github.com/tienpcs/AntiDDOS-system/blob/master/LICENSE)
 
 PS: Send me feedback to make this project more powerfull than ever! ;-)
-
-
-# AntiDDOS-system
-# AntiDDOS-system
-# AntiDDOS-system
-# AntiDDOS-system
-# AntiDDOS-system
